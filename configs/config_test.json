@@ -1,0 +1,13 @@
+{   
+    
+    "cmt_global"      : "v8",
+    "container"       : "2022.06.2",
+    "output_folder"   : "/data/xenon/cfuselli/stomboot_thesis/job_submission/output/",
+    "log_dir"         : "/data/xenon/cfuselli/stomboot_thesis/job_submission/logs/",
+    "pyfile"          : "/data/xenon/cfuselli/stomboot_thesis/job_submission/process.py",
+    "runs_filename"   : "/data/xenon/cfuselli/stomboot_thesis/job_submission/run_lists/run_list.txt",
+    "npergroup"     : 30,
+    
+
+    "mem_per_cpu"     : 10000
+}

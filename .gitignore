@@ -1,0 +1,3 @@
+logs/*
+configs/tmp/*
+__pycache__

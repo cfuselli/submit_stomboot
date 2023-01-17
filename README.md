@@ -14,4 +14,8 @@ source an environment (or cvmfs) and then:
 `python submmitter.py`
 
 
-set configs in the `configs/` directory
+set configs in the `configs/` directory.
+
+
+
+Set up `process.py` to do what you need (st.make etc). 

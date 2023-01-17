@@ -3,6 +3,7 @@
 Carlo Fuselli
 
 cfuselli@nikhef.nl
+
 ----------------
 
 Adapted from utilix package XENONnT

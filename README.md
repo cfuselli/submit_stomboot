@@ -12,7 +12,7 @@ Usage:
 
 source an environment (or cvmfs) and then: 
 
-`python submmitter.py`
+``python submmitter.py``
 
 
 set configs in the `configs/` directory.
